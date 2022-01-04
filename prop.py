@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from pandas_datareader import data as pdr
+# from pandas_datareader import data as pdr
 import matplotlib.pyplot as plt
 import plotly.express as px
 import datetime
